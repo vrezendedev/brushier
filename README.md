@@ -2,7 +2,13 @@
 
 ![Brushier](./pics/Brushier_Example.png)
 
-Brushier is a plugin for Aseprite that allows you to have a quick brush menu right at your mouse position.
+Brushier is a plugin for Aseprite that allows you to have a quick brush menu right at your mouse position. Brushier is an alternative to different shortcuts and allows you to change brush stuff without moving your mouse / pen too much.
+
+## Features
+
+1. Change Brush Type.
+2. Change Brush Size.
+3. Showcase current Palette and change FG color.
 
 ## Disclaimer
 
