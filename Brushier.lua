@@ -87,7 +87,7 @@ dialog
 :separator{}
 
 current = 0;
-local shades = {table.unpack(clrs, current, 4)}
+local shades = {table.unpack(clrs, current, 5)}
 
 while #shades > 0 do
     dialog:shades{ 
@@ -100,7 +100,7 @@ while #shades > 0 do
         end
     }
     current = current + 6;
-    shades = {table.unpack(clrs, current, current + 4)}
+    shades = {table.unpack(clrs, current, current + 5)}
     
     if shades == nil then
         break;
